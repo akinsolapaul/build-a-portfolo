@@ -1,0 +1,52 @@
+.color1 {
+/*	border: 1rem solid;
+	border-width: 1px;
+	height: 2em*/
+	  width: 80px;
+  height: 80px;
+  padding: 20px;
+  border: 8px;
+  background: #02b3e4;
+
+}
+
+.color2 {
+  width: 80px;
+  height: 80px;
+  padding: 20px;
+  border: 8px;
+  background: #2d3c49;
+}
+
+
+.color3 {
+  width: 80px;
+  height: 80px;
+  padding: 20px;
+  border: 8px;
+  background: #7d97ad;
+  }
+
+.lign {
+	/*justify-content: right;*/
+	font-family: 'Jura', sans-serif;
+	text-align: right;
+}
+
+.xlign {
+	text-align: center;
+	color: #2d3c49;
+}
+
+.rh {
+	width: 100%;
+	border: 1.5px solid grey;
+}
+
+.nig h1{
+	color: #7d97ad;
+}
+
+.bt {
+	margin-bottom: 30px;
+}
